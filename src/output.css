@@ -217,6 +217,12 @@
   .w-\[208px\] {
     width: 208px;
   }
+  .w-\[370\] {
+    width: 370;
+  }
+  .w-\[370px\] {
+    width: 370px;
+  }
   .w-\[608px\] {
     width: 608px;
   }
@@ -240,6 +246,9 @@
   }
   .gap-\[6px\] {
     gap: 6px;
+  }
+  .gap-\[147px\] {
+    gap: 147px;
   }
   .gap-\[600px\] {
     gap: 600px;
@@ -269,11 +278,17 @@
     --tw-gradient-to: currentcolor;
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .pt-\[3\] {
+    padding-top: 3;
+  }
   .pt-\[4\] {
     padding-top: 4;
   }
   .pt-\[30px\] {
     padding-top: 30px;
+  }
+  .pt-\[31px\] {
+    padding-top: 31px;
   }
   .pt-\[33px\] {
     padding-top: 33px;
@@ -283,6 +298,12 @@
   }
   .pt-\[48px\] {
     padding-top: 48px;
+  }
+  .pt-\[100px\] {
+    padding-top: 100px;
+  }
+  .pt-\[190px\] {
+    padding-top: 190px;
   }
   .pr-\[34px\] {
     padding-right: 34px;
@@ -301,6 +322,9 @@
   }
   .text-\[20px\] {
     font-size: 20px;
+  }
+  .text-\[56px\] {
+    font-size: 56px;
   }
   .text-\[96px\] {
     font-size: 96px;
